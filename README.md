@@ -21,21 +21,20 @@
 - Não Olhe Para Cima (16)
 
 🇺🇲 -  It's a lilac screen with a white rectangle in the center, where the names of the films that I recommend will appear, according to your age and preferences, for three types of genres. Below, you will see the available genres and the films I suggest based on the test you take. :)
+### GENRES LISTED
+- Comedy
+- Fantasy
+- Drama
 
-GENRES LISTED
-Comedy
-Fantasy
-Drama
-
-CHOSEN MOVIES
-Spirited Away (Free)
-Brave (Free)
-HOP - Rebel Without Easter (Free)
-Charlie and the Chocolate Factory (Free)
-Range (10)
-Spider-Man: Into the Spider-Verse (10)
-Alice in Wonderland (10)
-Everything Everywhere at the Same Time (14)
-Joker (16)
-Oppenheimer (16)
-Don't Look Up (16)
+### CHOSEN MOVIES
+- Spirited Away (Free)
+- Brave (Free)
+- HOP - Rebel Without Easter (Free)
+- Charlie and the Chocolate Factory (Free)
+- Range (10)
+- Spider-Man: Into the Spider-Verse (10)
+- Alice in Wonderland (10)
+- Everything Everywhere at the Same Time (14)
+- Joker (16)
+- Oppenheimer (16)
+- Don't Look Up (16)

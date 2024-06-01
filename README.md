@@ -1,4 +1,4 @@
-# movie.recommender
+# movie.recommender 🎬
 
 🇧🇷 - É uma tela lilás com um retângulo branco no centro, onde aparecerão os nomes dos filmes que recomendo, de acordo com sua idade e preferências, para três tipos de gêneros. Abaixo, você verá os gêneros disponíveis e os filmes que sugiro conforme o teste que você realiza. :)
 
